@@ -1,0 +1,3 @@
+API_KEY = AIzaSyD4cdr74L60Y73g3vF8SZFYo7bJyYwPbms
+WIDGET_API_KEY=my-secret-password-123
+
